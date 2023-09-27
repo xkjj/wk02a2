@@ -1,0 +1,17 @@
+.mynav{
+    background-color: #ff4538;
+}
+
+.mynav .nav-right a{
+    color: white;
+    cursor: pointer;
+}
+
+.mynav .nav-right a.active{
+    color:white;
+    border-bottom: medium solid white;
+}
+
+.myspace{
+    padding-top: 20px;
+}
